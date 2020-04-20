@@ -1,0 +1,39 @@
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color:#777777;
+}
+
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    Color:#777777;
+}
+body {
+    background-image: url("../Images/polo.jpg");
+    background-color: #cccccc;
+   }
+
+   header {
+       background-color: #ffffff;
+   }
+   footer {       background-color:#666666;
+   }
+
+   .jumbotron{
+    background-color:rgb(245, 245, 245);
+
+   }
+   .message {
+       Height:200px; width:600px;
+       }
+
+ .container {
+     background-color: rgb(255, 255, 255);       
+     padding:2px;
+    }
+
+    .navbar-brand {
+        padding: 25px;
+        background-color: rgb(66, 162, 168);
+        color: #cccccc;
+
+    }
